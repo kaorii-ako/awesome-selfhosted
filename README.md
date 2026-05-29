@@ -1209,6 +1209,7 @@ _Related: [Note-taking & Editors](#note-taking--editors), [Wikis](#wikis), [Data
 
 
 ### Learning and Courses
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - AI-powered student productivity app. Google Classroom sync, Gemini AI study plans, spaced repetition flashcards, GPA calculator, Pomodoro timer. ([Demo](https://shiori-v1.vercel.app)) `MIT` `Nodejs`
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
