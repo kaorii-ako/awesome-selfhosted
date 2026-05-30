@@ -1215,6 +1215,7 @@ _Related: [Note-taking & Editors](#note-taking--editors), [Wikis](#wikis), [Data
 
 Tools and software to help with education and learning.
 
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - AI study companion with Google Classroom sync, GPA calculator, spaced repetition flashcards, AI study plan generator, and Pomodoro timer. ([Demo](https://shiori-v1.vercel.app)) `MIT` `Docker` `Nodejs`
 - [Canvas LMS](https://www.instructure.com/canvas/) - Learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`
 - [Chamilo LMS](https://chamilo.org/) - Create a virtual campus for the provision of online or semi-online training. ([Source Code](https://github.com/chamilo/chamilo-lms)) `GPL-3.0` `PHP`
 - [Digiscreen](https://ladigitale.dev/digiscreen/) - Interactive whiteboard/wallpaper for the classroom, in person or remotely (documentation in French). ([Demo](https://ladigitale.dev/digiscreen/), [Source Code](https://codeberg.org/ladigitale/digiscreen)) `AGPL-3.0` `Nodejs/PHP`
