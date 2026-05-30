@@ -1229,6 +1229,7 @@ Tools and software to help with education and learning.
 - [QST](https://qstonline.org) - Online assessment software. From a quick quiz on your phone to large scale, high stakes, proctored desktop testing, easy, secure and economical. ([Demo](https://qstonline.org/free_account.htm), [Source Code](https://sourceforge.net/projects/qstonline/)) `GPL-2.0` `Perl`
 - [RELATE](https://documen.tician.de/relate/) - Courseware package that includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code](https://github.com/inducer/relate)) `MIT` `Python`
 - [RosarioSIS](https://www.rosariosis.org/) - Student Information System for school management. Features students demographics, grades, scheduling, attendance, student billing, discipline & food service modules. ([Demo](https://www.rosariosis.org/demo/), [Source Code](https://gitlab.com/francoisjacquet/rosariosis/)) `GPL-2.0` `PHP`
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Student productivity app with assignment tracking, grade management, spaced repetition flashcards, AI study plans (Gemini), GPA predictor, and Claude Code MCP server. ([Demo](https://shiori-v1.vercel.app)) `MIT` `Nodejs`
 
 
 ### Manufacturing
